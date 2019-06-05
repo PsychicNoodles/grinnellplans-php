@@ -1,0 +1,3 @@
+[submodule "gpmobile"]
+	path = gpmobile
+	url = git@github.com:PsychicNoodles/gpmobile.git
